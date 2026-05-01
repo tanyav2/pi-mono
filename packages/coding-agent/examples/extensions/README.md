@@ -124,6 +124,7 @@ cp permission-gate.ts ~/.pi/agent/extensions/
 |-----------|-------------|
 | `custom-provider-anthropic/` | Custom Anthropic provider with OAuth support and custom streaming implementation |
 | `custom-provider-gitlab-duo/` | GitLab Duo provider using pi-ai's built-in Anthropic/OpenAI streaming via proxy |
+| `custom-provider-tinfoil/` | Tinfoil provider using the Tinfoil JS SDK's verified encrypted transport for Chat Completions and Responses streaming |
 
 ### External Dependencies
 

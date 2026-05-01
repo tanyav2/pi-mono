@@ -13,6 +13,7 @@ See these complete provider examples:
 
 - [`examples/extensions/custom-provider-anthropic/`](../examples/extensions/custom-provider-anthropic/)
 - [`examples/extensions/custom-provider-gitlab-duo/`](../examples/extensions/custom-provider-gitlab-duo/)
+- [`examples/extensions/custom-provider-tinfoil/`](../examples/extensions/custom-provider-tinfoil/)
 
 ## Table of Contents
 
